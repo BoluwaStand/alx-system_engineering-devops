@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(head -n 3 iacta)
+grep 'Alea iacta est ("The die is cast")' iacta
